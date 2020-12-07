@@ -1,4 +1,0 @@
-int b1 = A1 + A2 + A3 + A4;
-float b2 = 1.0/(x*x*x*x)
-double b3 = a*b - (double)a/b
-char b4 = x > 0.05*y

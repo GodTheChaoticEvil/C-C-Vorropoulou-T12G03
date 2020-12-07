@@ -1,4 +1,0 @@
-double a1 = a/b - c/d;
-double a2 = a*b/(c*d) - e;
-double a3 = a + 1.0/a;
-double a4 = a*a + b*b + c*c;
